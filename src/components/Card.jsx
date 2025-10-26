@@ -11,7 +11,7 @@ const Card = ({ title, images = [], onClick }) => {
            loading="lazy"
             key={i}
             src={img}
-            alt={`${title}-${i}`}
+            alt=""
             className={`stack-img img-${i}`}
           />
         ))}

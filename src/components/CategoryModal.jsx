@@ -42,7 +42,7 @@ function CategoryModal({ category, onClose }) {
               className="thumb"
               key={index}
               src={item.file}
-              alt={category}
+              alt=""
               
             /> )
           })}
