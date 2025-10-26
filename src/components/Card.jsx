@@ -8,6 +8,7 @@ const Card = ({ title, images = [], onClick }) => {
       <div className="image-stack">
         {images.slice(0, 3).map((img, i) => (
           <img
+           loading="lazy
             key={i}
             src={img}
             alt={`${title}-${i}`}
