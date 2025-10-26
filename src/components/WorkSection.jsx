@@ -19,7 +19,7 @@ function WorkSection() {
     { image: "https://uvvfxecxirwxnefamcpt.supabase.co/storage/v1/object/public/workImage/poster3.jpg", category: "Poster" },
     { image: "https://uvvfxecxirwxnefamcpt.supabase.co/storage/v1/object/public/workImage/logo1.png", category: "Logo" },
     { image: "https://uvvfxecxirwxnefamcpt.supabase.co/storage/v1/object/public/workImage/logo2.webp", category: "Logo" },
-    { image: "https://uvvfxecxirwxnefamcpt.supabase.co/storage/v1/object/public/workImage/logo3.jpg", category: "Logo" },
+    { image: "https://uvvfxecxirwxnefamcpt.supabase.co/storage/v1/object/public/workImage/1.png", category: "Logo" },
     { image: "https://uvvfxecxirwxnefamcpt.supabase.co/storage/v1/object/public/workImage/thumbnail1.jpg", category: "Thumbnail" },
     { image: "https://uvvfxecxirwxnefamcpt.supabase.co/storage/v1/object/public/workImage/thumbnail2.png", category: "Thumbnail" },
     { image: "https://uvvfxecxirwxnefamcpt.supabase.co/storage/v1/object/public/workImage/thumbnail3.png", category: "Thumbnail"},
