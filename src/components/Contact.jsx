@@ -9,8 +9,8 @@ function Contact() {
       </p>
       <div style={styles.info}>
         <p>Email: <a href="mailto:nadielgetu@gmail.com">nadielgetu@gmail.com</a></p>
-        <p>Instagram: <a href="#">@nadi__e_t</a></p>
-        <p>Telegram: <a href="#">@nadielll</a></p>
+        <p>Instagram: <a href="instagram/nadi__e_t">@nadi__e_t</a></p>
+        <p>Telegram: <a href="t.me/nadielll">@nadielll</a></p>
       </div>
     </section>
   );

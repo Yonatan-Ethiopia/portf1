@@ -38,6 +38,7 @@ function CategoryModal({ category, onClose }) {
     />
   ) :       (
             <img
+              loading="lazy"
               className="thumb"
               key={index}
               src={item.file}
