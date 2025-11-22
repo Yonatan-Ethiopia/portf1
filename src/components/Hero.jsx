@@ -19,7 +19,7 @@ function Hero() {
           className="video"
           autoPlay loop muted playsInline
         >
-          <source src="/bak2.mp4https://uvvfxecxirwxnefamcpt.supabase.co/storage/v1/object/public/workImage/bak2.mp4" type="video/mp4" />
+          <source src="https://uvvfxecxirwxnefamcpt.supabase.co/storage/v1/object/public/workImage/bak2.mp4" type="video/mp4" />
           Your browser does not support video.
         </video>
       </div>
