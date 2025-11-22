@@ -5,7 +5,12 @@ const allWork = [
 { id:4, file:"https://uvvfxecxirwxnefamcpt.supabase.co/storage/v1/object/public/workImage/thumbnail3.png", category:"Thumbnail"},
 { id:5, file:"https://uvvfxecxirwxnefamcpt.supabase.co/storage/v1/object/public/workImage/thumbnail2.png", category:"Thumbnail"},
 { id:6, file:"https://uvvfxecxirwxnefamcpt.supabase.co/storage/v1/object/public/workImage/thumbnail1.jpg", category:"Thumbnail"},
-{ id:6, file:"https://uvvfxecxirwxnefamcpt.supabase.co/storage/v1/object/public/workImage/vol.mp4", category:"Thumbnail"},
+ 
+{ id:17, file:"https://uvvfxecxirwxnefamcpt.supabase.co/storage/v1/object/public/workImage/thumbnail4.jpg", category:"Thumbnail"},
+ { id:18, file:"https://uvvfxecxirwxnefamcpt.supabase.co/storage/v1/object/public/workImage/thumbnail6.jpg", category:"Thumbnail"},
+  { id:19, file:"https://uvvfxecxirwxnefamcpt.supabase.co/storage/v1/object/public/workImage/thumbnail7.mp4", category:"Thumbnail"},
+  { id:20, file:"https://uvvfxecxirwxnefamcpt.supabase.co/storage/v1/object/public/workImage/thumbnail5.mp4", category:"Thumbnail"},
+  { id:21, file:"https://uvvfxecxirwxnefamcpt.supabase.co/storage/v1/object/public/workImage/thumbnail8.mp4", category:"Thumbnail"},
 { id:7, file:"https://uvvfxecxirwxnefamcpt.supabase.co/storage/v1/object/public/workImage/logo1.png", category:"Logo"},
 { id:8, file: "https://uvvfxecxirwxnefamcpt.supabase.co/storage/v1/object/public/workImage/logo2.webp", category:"Logo"},
 { id:9, file:"https://uvvfxecxirwxnefamcpt.supabase.co/storage/v1/object/public/workImage/mok6.jpg", category:"Mock up"},
